@@ -20,8 +20,10 @@
 ### BACKGROUND AND SCOPE
 
 > Bank XYZ has a growing customer base where the majority of them are liability customers (depositors) vs. borrowers (asset customers).The bank is interested in expanding the borrowers base rapidly to bring in more business via loan interests.
+
 > A campaign that the bank ran in the last quarter showed an average single-digit conversion rate. In the last town hall, the marketing head mentioned that digital transformation being the core strength of the business strategy, how to devise effective campaigns with better target marketing to increase the conversion ratio to double-digit with same budget as per the last campaign.
->As a data scientist, you are asked to develop a machine learning model to identify 
+
+> As a data scientist, you are asked to develop a machine learning model to identify 
 potential borrowers to support focused marketing
 
 # APPROACH
