@@ -1,6 +1,6 @@
 # DIGITAL TRANSFORMATION IN BANKING SECTOR
 
-![](assets/p1.jpg)
+![](assets/12.jpg)
 
 # PROJECT DETAIL:
 
